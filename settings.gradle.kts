@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MOvieShelf"
 include(":app")
+include(":domain")

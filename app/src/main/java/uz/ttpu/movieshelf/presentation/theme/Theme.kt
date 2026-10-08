@@ -1,4 +1,4 @@
-package uz.ttpu.movieshelf.ui.theme
+package uz.ttpu.movieshelf.presentation.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun MOvieShelfTheme(
+fun MovieShelfTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

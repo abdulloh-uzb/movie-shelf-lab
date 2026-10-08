@@ -1,4 +1,4 @@
-package uz.ttpu.movieshelf.ui.theme
+package uz.ttpu.movieshelf.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
